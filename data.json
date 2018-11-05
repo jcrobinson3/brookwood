@@ -1,0 +1,49 @@
+
+{
+    "Questions": [{
+        "Q1": "Self Pity or Serentiy?",
+        "Q2": "Self-Righteousness or Humility?",
+        "Q3": "Self Condemnation or Self-Valuation?",
+        "Q4": "Being a Taker or Being a Giver?",
+        "Q5": "Lying or Honesty?",
+        "Q6": "Impatience or Patience?",
+        "Q7": "Complaining or Gratitude?",
+        "Q8": "Resentment or Forgiveness?",
+        "Q9": "Denial or Admittance?",
+        "Q10": "Worry or Trust?",
+        "Q11": "Complying or Working the Program?",
+        "Q12": "Projection or Accepting Responsibility?",
+        "Q13": "Procrastination or Doing Things on Time?",
+        "Q14": "Being Phony or Being Real?",
+        "Q15": "Negative Thinking or Positive Thinking?",
+        "Q16": "Vulgar, Immoral Thinking or Clean, Spiritual Thinking?",
+        "Q17": "False Guilt about the Past or Accepting Forgiveness?",
+        "Q18": "Gluttony or Temperance?",
+        "Q19": "Head and Butt Disease or Concentration?",
+        "Q20": "Forgetting God or Communion with God?"
+    }],
+    "Data": [{
+        "d1": [{
+            "A1": "Yes",
+            "A2": "Yes",
+            "A3": "No",
+            "A4": "Yes",
+            "A5": "No",
+            "A6": "Yes",
+            "A7": "No",
+            "A8": "Yes",
+            "A9": "No",
+            "A10": "Yes",
+            "A11": "Yes",
+            "A12": "Yes",
+            "A13": "No",
+            "A14": "Yes",
+            "A15": "No",
+            "A16": "Yes",
+            "A17": "No",
+            "A18": "Yes",
+            "A19": "No",
+            "A20": "Yes"
+        }]
+    }]
+}

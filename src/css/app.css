@@ -1,0 +1,23 @@
+body,html {
+    overflow:hidden;
+    background-color:#222;
+    color: whitesmoke;
+    }
+  h1 {
+      background-color:#222;
+      color:whitesmoke;
+      text-align:center;
+  }
+  div {
+      background-color:#222 !important;
+      color: whitesmoke;
+  }
+       
+  p {
+      background-color:#222;
+      color:whitesmoke;
+  }
+  
+  .scroll-content {
+      background-color: #222 !important;
+  }
